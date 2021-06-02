@@ -22,7 +22,6 @@
 body {
     background-color: rgb(75, 68, 68);
 }
-img {
-    max-width:100%;
-    height:auto;
+h1 {
+    font-size: 60px;
 }
