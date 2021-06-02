@@ -1,0 +1,28 @@
+.one:link {
+    color: lightgrey;
+}
+
+.one:visted {
+    color: white;
+}
+
+.one:hover {
+    color: aqua;
+}
+
+.one:active {
+    color: pink;
+}
+
+.solid {
+    border-style: solid;
+    border-color: white;
+}
+
+body {
+    background-color: rgb(75, 68, 68);
+}
+img {
+    max-width:100%;
+    height:auto;
+}
