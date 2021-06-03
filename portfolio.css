@@ -40,3 +40,6 @@ h5 {
 h6 {
     font-size: 35px
 }
+img {
+    border: 5px solid rgb(255, 255, 255)
+}
